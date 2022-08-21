@@ -7,3 +7,8 @@ It is much more like progress to learn how to build simple ViLD. The repo includ
 The first part of the repo is from Alex's repo.
 
 I hope to simplify extract the ViLD from ahthor's original repo and change the backbone in it.  
+
+
+
+When I got lost, I start learning the book Hands-On-Machine-Learning-with-Scikit-....
+The repo for this book : https://github.com/ageron/handson-ml2
