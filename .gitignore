@@ -1,3 +1,8 @@
-.DC_Store
+.DS_Store
 save_models/
-
+[4]-ResNet50/datasets/
+[4]-Resnet50/pretrained_w/best_model.h5
+[4]-Resnet50/pretrained_w/resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
+[6]-Transfer-Learning-eg/lab-1/object_detection_self/data/
+[6]-Transfer-Learning-eg/lab-1/train/
+[6]-Transfer-Learning-eg/models/
