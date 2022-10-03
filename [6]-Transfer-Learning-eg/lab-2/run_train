@@ -1,0 +1,7 @@
+#!/bin/bash
+mkdir -p train
+
+python3 ../models/research/object_detection/legacy/train.py \
+    --logtostderr \
+    --pipeline_config_path=/Users/gsq/Desktop/Alex_Vild/Variant-ViLD/[6]-Transfer-Learning-eg/lab-2/object_detection_self/data/ssd_inception_v2_pets.config \
+    --train_dir=train \
