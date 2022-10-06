@@ -1,0 +1,8 @@
+#!/bin/bash
+
+python3 ../models/research/object_detection/legacy/eval.py \
+    --logtostderr \
+    --pipeline_config_path=train/pipeline.config \
+    --checkpoint_dir=train \
+    --eval_dir=eval \
+    --run_once=True \
