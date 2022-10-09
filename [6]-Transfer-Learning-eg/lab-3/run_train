@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python3 ../models/research/object_detection/legacy/train.py \
+    --pipeline_config_path=./faster_rcnn_resnet101_kitti.config \
+    --train_dir=model \

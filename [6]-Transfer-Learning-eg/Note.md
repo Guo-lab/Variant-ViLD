@@ -76,6 +76,25 @@
     When I decrease the learning rate and the number of the training instances(to avoid overfitting), the losses can be declined after a longer fine-tuning process(20000 epoches). However, [the mAP@0.5 is still zero](https://www.zhihu.com/question/490796220).
     
     <br>  
-      
-    1. Unfreeze more lower layers (few train data [need](https://www.zhihu.com/question/383807358) to [freeze](https://www.cnblogs.com/shanqiu24/p/15844457.html)) 
+    
+    1. Freeze more lower layers (few train data, [need](https://www.zhihu.com/question/383807358) to [freeze](https://www.cnblogs.com/shanqiu24/p/15844457.html)) 
     2. Use KITTI to create TFRecord files directly.
+    
+    
+    
+    [Map]([A practical example to learn Transfer learning with PyTorch | by David Retana | Towards Data Science](https://towardsdatascience.com/a-practical-example-in-transfer-learning-with-pytorch-846bb835f2db))
+    
+    | Small dataset                       | FC layer retrained                                           |
+    | ----------------------------------- | ------------------------------------------------------------ |
+    | **Large** dataset and **similar**   | Freeze the earlier layers and retrain others                 |
+    | **Large** dataset but **different** | Train the model from scratch and reuse the network architecture |
+
+
+
+# Lab3: (based on KITTI)
+
+>  Use KITTI to create TFRecord files directly
+
+## [Reference]([Object Detection on KITTI dataset using YOLO and Faster R-CNN · Yizhou Wang · Homepage](http://yizhouwang.net/blog/2018/12/20/object-detection-kitti/))
+
+When it comes to the model.ckpt to use, faster_rcnn_resnet101_coco_2018_01_28 should match transfer learning, while faster_rcnn_resnet101_kitti_2018_01_28 should match retraining.

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# https://github.com/tensorflow/models/blob/master/research/object_detection/dataset_tools/create_kitti_tf_record.py
+
+python ../models/research/object_detection/dataset_tools/create_kitti_tf_record.py \
+    --data_dir=./Kitti \
+    --output_path=./Kitti \
+    --classes_to_use=Car,Van,Truck,Pedestrian,Cyclist,Tram,Dontcare \
+    --label_map_path=./kitti_label_map.pbtxt

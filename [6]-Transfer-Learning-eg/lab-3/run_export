@@ -1,0 +1,7 @@
+#!/bin/bash
+
+python3 ../models/research/object_detection/export_inference_graph.py \
+    --input_type=image_tensor \
+    --pipeline_config_path=./faster_rcnn_resnet101_kitti.config \
+    --trained_checkpoint_prefix=./model/model.ckpt-6035 \
+    --output_directory=./graph/output_inference_graph \
