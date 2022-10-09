@@ -12,3 +12,8 @@ I hope to simplify extract the ViLD from ahthor's original repo and change the b
 
 When I got lost, I start learning the book Hands-On-Machine-Learning-with-Scikit-....
 The repo for this book : https://github.com/ageron/handson-ml2
+
+
+However, Changing the structure can also start with transfer learning. So, I am trying to transfer learn with some object detection models on 2022.10, and hope I can do it with ViLD.   
+
+[Never git add . !!! ]
