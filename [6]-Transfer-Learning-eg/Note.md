@@ -78,7 +78,7 @@
     <br>  
     
     1. Freeze more lower layers (few train data, [need](https://www.zhihu.com/question/383807358) to [freeze](https://www.cnblogs.com/shanqiu24/p/15844457.html)) 
-    2. Use KITTI to create TFRecord files directly.
+    2. Use KITTI to create TFRecord files directly. (**Lab-3**)
     
     
     
@@ -97,4 +97,28 @@
 
 ## [Reference]([Object Detection on KITTI dataset using YOLO and Faster R-CNN · Yizhou Wang · Homepage](http://yizhouwang.net/blog/2018/12/20/object-detection-kitti/))
 
-When it comes to the model.ckpt to use, faster_rcnn_resnet101_coco_2018_01_28 should match transfer learning, while faster_rcnn_resnet101_kitti_2018_01_28 should match retraining.
+When it comes to the model.ckpt to use, faster_rcnn_resnet101_coco_2018_01_28 has as almost the same pipeline.config as faster_rcnn_resnet101_kitti_2018_01_28. 
+
+
+
+? pre-trained Model same (except last classifier layer) ?
+
+<img src="md_img/image-20221010171422414.png" alt="image-20221010171422414" style="zoom:30%;" />
+
+Create_kitti_tf_record.py has problems to deal with the bounding box.
+
+
+
+
+
+With [kitti_convert.py](https://github.com/BeckerFelix/KITTI-to-tfrecords/blob/master/progress.py) Thanks to this author.
+
+<img src="md_img/image-20221011142037339.png" alt="image-20221011142037339" style="zoom:30%;" />
+
+
+
+Success:
+
+<img src="md_img/image-20221011142333790.png" alt="md_img/image-20221011142333790" style="zoom:20%;" />
+
+<img src="md_img/image-20221011143040772.png" alt="image-20221011143040772" style="zoom:50%;" />
