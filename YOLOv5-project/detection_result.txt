@@ -1,0 +1,783 @@
+els removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/142653279c486c85.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/144731d34c7fc64a.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/144bde46edb52c1d.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/145f52a192eb7188.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1477269bc648b7ff.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1478c83c510c29c1.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/148f5a9d7cb8255b.jpg: 4 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1493bf7504370105.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1496414d81290f2c.jpg: 4 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/14aac87280f7d700.jpg: 4 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/14bad85efcda0a0e.jpg: 4 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/14c12954837d4e8e.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/14c429335608a33a.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/14c8c7d684c2a921.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/14cc6d86941ad77e.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/14cf28f3a53db541.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/14d42f09359d732f.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/14de1287bac2e827.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/15000ae03213c3e5.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1514c79c29368c0a.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/15183e29344961ec.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/15351ec9adf6b301.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/15710da4d8a28d2d.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/159b2a950d2027f3.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/15a623b33df1df86.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/15a896a808d696ca.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/15d0d0ee65f2a1ab.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/15ddadf9f778c25d.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/15f71a4fa435fcff.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/15fcc2364d6f1e6c.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/160876c3df163d9b.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/161ce0137c1c7ea7.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/161cea3dcc6f1ee6.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/16209a2780674d02.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1623c67154ff8bbe.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1623f91d2675862d.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/16317c673b6e4b38.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/163d65fb3d9c409d.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/164ff5c07df15d67.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1654984f61b0de3b.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/165d4c804fdbea3c.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/166b974e85386982.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/166bce507a96920c.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/166ec6e3c9137656.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1682c9836459892e.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1686ce7615f4ea82.jpg: 4 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/16914627e4a130fa.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1695941391c0acd5.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1699b1a23686bf11.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/16ba05db3db40b41.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/16d0d2f12deda324.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/16dfcf2c195a45e5.jpg: 4 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1704bb35b253c72d.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/17128762e5c5a3bb.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1721690ede4d312e.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1727c550cd61a16f.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1734a13088f697cf.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1740ed089b7439c2.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1761161ced206a59.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/176b7efd8d1ea7b6.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1773eec57ba6b0b8.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/17869a971a6578a1.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1792b71dd072df88.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/17cecef926f0d7be.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/17dba471109aef9c.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/17f5fe3529e18c89.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/18040002fae21db0.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/18310c6f92986dc8.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/1833e1c0e76defbf.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/187582aa13200b8e.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/18782516c54903d9.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/189f00bcdf56cc9f.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/189fc64b18b4a711.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/18b1d51112a144af.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/18b9a6bc00d5e030.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/18b9f4f4b50d9ff7.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/18d7674b9d5538d6.jpg: 2 duplicate labels removed
+train: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/train/18db0845c0450b1c.jpg: 2 duplicate labels removed
+train: New cache created: /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/labels/train.cache
+/Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val 
+
+/Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val 
+
+val: Scanning /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/labels/val... 346 images, 0 backgrounds, 0 corrupt: 1
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0013eebbcafa70e5.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/002453dd6bee632f.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0025ee05cb199d32.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/002d766cbb19c1a0.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/003650854be08229.jpg: 4 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0047264e06512e75.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/004aaf7fe2a9ae68.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/006c528316553ddd.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/00a185001cd97c48.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/00a1fff876518970.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/00be5d837ceac97a.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/00c6e6de470c2346.jpg: 4 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/00cf53cae28efbd2.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/00d075961b9a3b48.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/010d934b32d9cd08.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/010f02e84e465c4e.jpg: 6 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/011d771927d24d56.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/011f011557dc3e06.jpg: 4 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0122ed068d6d0d40.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/012f01493015c724.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/013a750cbd46fbd0.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0141bec71ea652d8.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0147af438bc08acd.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/015266c885661707.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01575172e30a3115.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0158339289ba9ef6.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/016138c99f022e38.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/017f293e52590602.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01841d31f50bfb42.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01875c8e30d2bd41.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/018bafef4b3ca0c6.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0191037772bc2cbc.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0191fc13b7614846.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01b7a6c529347a5f.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01c40a0d4cbdac2d.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01c7875d1c1a0a9b.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01c7df93fdd70b06.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01d0818e97339657.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01d857c381ce4754.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01da1a251e8d163a.jpg: 4 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01ddbe695dbb0228.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01e91302fb2f7c51.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01eba69a5615ee4f.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01f9cdb2b6c6d142.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01fe4196dbd1444e.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/01fe73e6ef43bd37.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/020efd3803ff4e94.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0218c55b31ce4c6f.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/02200b632b6245de.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/02301093441c0980.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/02517390477a6070.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/026758dd28f5f0c0.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/026836c48efd8c33.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/027de0415a7bd05e.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/029c508b9a5395d9.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/02a4e8a254c2d18d.jpg: 4 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/02c96c40268b866a.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/02ce45a62438e2a3.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/02efa9ccbfa81a95.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/030904442c6b55dc.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/03149fed8a991a80.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/031b4c84e61f128f.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/03325932f5292dfe.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0345d1be94555b08.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/034684b3d6d10312.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/035541088dc6d28c.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/03a70242be636b12.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/03ad9b72174a36c2.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/03d100a28a84bac5.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/03ee1c704366be54.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/04012bdb587387f6.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0408bc4431a667bc.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/042ea038a398a2f0.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/043bafd0fe4206eb.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0448be7c36b00b4b.jpg: 4 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/045295a550ab54e6.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/048154a814298924.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/04cd56e95379df57.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/04f75cf3ec686d5d.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/057be2d8c4823815.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0588926237c502a8.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0588e2d1fe0ec274.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/059e08aa861d02bf.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/06d4434886eafe25.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/072e68abf4f016ec.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/073a22d6962abc31.jpg: 4 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0759fe452f6148fa.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/075c037aee7421f7.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0772093f4935fef0.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/07d38af0c2467f26.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/07f4eba653362d70.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/085717ee24557003.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/086a5517be51e117.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/08a271039ad6f2a2.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/08b64c502035fcfb.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/08b9e69d9e77e708.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0905f363c062c169.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0931d6e5faf32257.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0984fa9da1e8b9fb.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0a2cf4d8fb3df557.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0a57d928bb160ca4.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0b2ee5a04dde2b3c.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0b3f01b04b81297d.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0b78bbadfab4d311.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0b81797a6ecc1ac7.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0ba67088f25ff598.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0bf29e43d65328f9.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0c063dfa16eb9abf.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0c426eea1641e215.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0c76f24f6d8c5150.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0c770071da349195.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0cc955135a5cfaf3.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0d159f9feee8fbc4.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0d176293998f02c1.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0d3b6dfa015ba42e.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0d3b97b0349d49ba.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0d90c350edb83225.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0d95373d4e6d6777.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0da2429457016fcd.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0ddb764e395505e9.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0df4cd055c1871af.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0e1575e68674afd4.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0eb2912c87d1daf0.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0ec7061697686e77.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0ecee875ea96ddd6.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0f34b695bbc67ac5.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0fbb4eb1135e8e84.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/0ffc089d34915181.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1014e94f922325b5.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/10327471b6dd77a1.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1047c4b658ed794e.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/10613bfe5ad9eead.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1089770f8c56f5c8.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/10eb3c2c308b5867.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/10ffe439b0c3795a.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1101777a7e3b0646.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1116206b77c3b475.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1125b1a4f6c7b501.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1133e6daa942d307.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/116f39ff82014d42.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/12159526593d9957.jpg: 4 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/12434a1684627979.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/12566e7f4132bdfa.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/12686d5adc243c9c.jpg: 4 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/126e0ddc3da16de5.jpg: 4 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1286e776643e5f78.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/12a46e69b36252cb.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/12e6b0ba5c1f432e.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/12ecd9cc8253296d.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/12faa39d4aab7554.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1402c0be885ff4e8.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/142653279c486c85.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1477269bc648b7ff.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1478c83c510c29c1.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/14bad85efcda0a0e.jpg: 4 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/14d42f09359d732f.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1514c79c29368c0a.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/15351ec9adf6b301.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/15a623b33df1df86.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/161cea3dcc6f1ee6.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/16209a2780674d02.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1623c67154ff8bbe.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/163d65fb3d9c409d.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/165d4c804fdbea3c.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/166bce507a96920c.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/166ec6e3c9137656.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1686ce7615f4ea82.jpg: 4 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1721690ede4d312e.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/17869a971a6578a1.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/17f5fe3529e18c89.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/18040002fae21db0.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/18310c6f92986dc8.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/1833e1c0e76defbf.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/187582aa13200b8e.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/18b9f4f4b50d9ff7.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/18d7674b9d5538d6.jpg: 2 duplicate labels removed
+val: WARNING ⚠️ /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/images/val/18db0845c0450b1c.jpg: 2 duplicate labels removed
+val: New cache created: /Users/gsq/Desktop/Alex_Vild/Variant-ViLD/YOLOv5-project/data/labels/val.cache
+
+AutoAnchor: 3.85 anchors/target, 1.000 Best Possible Recall (BPR). Current anchors are a good fit to dataset ✅
+Plotting labels to yolov5/runs/train/exp11/labels.jpg... 
+Image sizes 640 train, 640 val
+Using 4 dataloader workers
+Logging results to yolov5/runs/train/exp11
+Starting training for 100 epochs...
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+       0/99         0G    0.07804    0.02822    0.02496          2        640: 100%|██████████| 250/250 05:33
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:53
+                   all        346        384      0.428      0.566      0.447      0.165
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+       1/99         0G     0.0542    0.02052    0.01701          4        640: 100%|██████████| 250/250 04:58
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:50
+                   all        346        384      0.393      0.537      0.455      0.232
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+       2/99         0G    0.04938    0.01907    0.01429          4        640: 100%|██████████| 250/250 04:54
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.611      0.669      0.663      0.323
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+       3/99         0G     0.0441    0.01828    0.01387          1        640: 100%|██████████| 250/250 04:51
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.684      0.765      0.782      0.507
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+       4/99         0G    0.03992    0.01727    0.01304          1        640: 100%|██████████| 250/250 04:50
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.689      0.827      0.779      0.473
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+       5/99         0G    0.03775    0.01722      0.013          3        640: 100%|██████████| 250/250 04:46
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.658      0.845      0.765      0.462
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+       6/99         0G    0.03622    0.01724    0.01336          2        640: 100%|██████████| 250/250 04:46
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.697      0.829      0.795      0.492
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+       7/99         0G    0.03318    0.01662    0.01237          1        640: 100%|██████████| 250/250 04:46
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.717      0.865      0.824       0.53
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+       8/99         0G    0.03346    0.01617    0.01151          2        640: 100%|██████████| 250/250 04:47
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.713       0.86      0.818      0.531
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+       9/99         0G    0.03137    0.01639    0.01069          1        640: 100%|██████████| 250/250 04:56
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:52
+                   all        346        384      0.735      0.862      0.836      0.574
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      10/99         0G    0.03138     0.0158    0.01149          4        640: 100%|██████████| 250/250 05:13
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:54
+                   all        346        384      0.711      0.828      0.817       0.55
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      11/99         0G    0.03109    0.01635    0.01085          1        640: 100%|██████████| 250/250 06:00
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:58
+                   all        346        384      0.718      0.849      0.833      0.549
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      12/99         0G    0.03003    0.01592    0.01021          2        640: 100%|██████████| 250/250 06:14
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 01:13
+                   all        346        384      0.765      0.877      0.839      0.566
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      13/99         0G    0.02938    0.01544   0.009998          4        640: 100%|██████████| 250/250 06:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 01:07
+                   all        346        384      0.745      0.891      0.849      0.593
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      14/99         0G    0.03012    0.01533   0.008967          1        640: 100%|██████████| 250/250 07:11
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 01:04
+                   all        346        384      0.767      0.893      0.877      0.585
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      15/99         0G    0.02882    0.01588   0.009858          3        640: 100%|██████████| 250/250 06:46
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 01:09
+                   all        346        384      0.739      0.896      0.861      0.581
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      16/99         0G    0.02881    0.01579   0.009156          3        640: 100%|██████████| 250/250 06:54
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 01:04
+                   all        346        384      0.721      0.899      0.847      0.578
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      17/99         0G     0.0284    0.01581   0.009981          2        640: 100%|██████████| 250/250 06:38
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 01:04
+                   all        346        384      0.762      0.903      0.874      0.617
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      18/99         0G    0.02744    0.01545   0.009412          4        640: 100%|██████████| 250/250 06:47
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 01:06
+                   all        346        384       0.78      0.914      0.878      0.609
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      19/99         0G     0.0287    0.01559   0.009327          2        640: 100%|██████████| 250/250 06:37
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 01:04
+                   all        346        384      0.782      0.932      0.891      0.649
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      20/99         0G    0.02699    0.01544   0.009128          1        640: 100%|██████████| 250/250 07:15
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 01:06
+                   all        346        384       0.77      0.901      0.883      0.652
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      21/99         0G    0.02712    0.01524    0.00846          4        640: 100%|██████████| 250/250 06:13
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:59
+                   all        346        384      0.789      0.934      0.885      0.636
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      22/99         0G    0.02664     0.0153   0.008722          1        640: 100%|██████████| 250/250 06:05
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:59
+                   all        346        384      0.753      0.933      0.875      0.616
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      23/99         0G    0.02677    0.01517   0.009185          4        640: 100%|██████████| 250/250 06:07
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 01:03
+                   all        346        384      0.808      0.898       0.89      0.633
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      24/99         0G    0.02582    0.01526   0.008865          4        640: 100%|██████████| 250/250 06:13
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 01:03
+                   all        346        384      0.805      0.885        0.9      0.668
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      25/99         0G    0.02633    0.01462    0.00832          2        640: 100%|██████████| 250/250 06:41
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:54
+                   all        346        384       0.82      0.906      0.913      0.675
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      26/99         0G    0.02637    0.01465   0.009826          1        640: 100%|██████████| 250/250 05:22
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:50
+                   all        346        384      0.789      0.915      0.899      0.669
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      27/99         0G    0.02519    0.01456   0.008777          1        640: 100%|██████████| 250/250 05:16
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:51
+                   all        346        384      0.813      0.911      0.903      0.674
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      28/99         0G    0.02553    0.01481   0.008979          1        640: 100%|██████████| 250/250 05:33
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:55
+                   all        346        384      0.824      0.919      0.913      0.677
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      29/99         0G    0.02535    0.01429   0.007529          2        640: 100%|██████████| 250/250 05:37
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:54
+                   all        346        384       0.79      0.945      0.909      0.683
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      30/99         0G    0.02518    0.01453   0.008283          2        640: 100%|██████████| 250/250 05:14
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.816       0.94      0.911      0.687
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      31/99         0G     0.0245    0.01464    0.00846          1        640: 100%|██████████| 250/250 04:57
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384       0.81      0.921      0.919      0.694
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      32/99         0G    0.02536    0.01432   0.007357          4        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.813      0.943      0.922      0.695
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      33/99         0G    0.02463    0.01426   0.008415          4        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.835      0.911       0.92        0.7
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      34/99         0G     0.0242     0.0142   0.007658          2        640: 100%|██████████| 250/250 04:47
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.824      0.932       0.92      0.706
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      35/99         0G    0.02475    0.01467     0.0083          1        640: 100%|██████████| 250/250 04:47
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384       0.81      0.936      0.926      0.717
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      36/99         0G    0.02339    0.01392   0.007668          2        640: 100%|██████████| 250/250 04:44
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.838      0.916      0.921      0.713
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      37/99         0G     0.0248    0.01434   0.007529          3        640: 100%|██████████| 250/250 04:46
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.844      0.935      0.936      0.714
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      38/99         0G    0.02472    0.01449   0.007723          1        640: 100%|██████████| 250/250 04:47
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.815      0.934       0.92      0.721
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      39/99         0G    0.02304    0.01411   0.007895          2        640: 100%|██████████| 250/250 04:47
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.827       0.96      0.934      0.727
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      40/99         0G    0.02317    0.01391   0.007357          2        640: 100%|██████████| 250/250 05:17
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:58
+                   all        346        384      0.832      0.956      0.937      0.729
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      41/99         0G    0.02343    0.01453   0.007396          3        640: 100%|██████████| 250/250 05:39
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:55
+                   all        346        384      0.833      0.948      0.939      0.731
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      42/99         0G    0.02278    0.01389   0.007259          1        640: 100%|██████████| 250/250 05:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 01:00
+                   all        346        384      0.859      0.955      0.942      0.736
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      43/99         0G    0.02256     0.0141   0.007233          1        640: 100%|██████████| 250/250 05:23
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:50
+                   all        346        384      0.873      0.922      0.944      0.736
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      44/99         0G    0.02189    0.01398   0.007091          1        640: 100%|██████████| 250/250 05:19
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:52
+                   all        346        384      0.857       0.94      0.942      0.742
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      45/99         0G    0.02297    0.01439   0.007348          1        640: 100%|██████████| 250/250 05:11
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:49
+                   all        346        384      0.842      0.946      0.944      0.736
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      46/99         0G    0.02303     0.0147    0.00745          2        640: 100%|██████████| 250/250 04:51
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.846       0.95      0.949      0.753
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      47/99         0G    0.02227    0.01375   0.006843          5        640: 100%|██████████| 250/250 04:55
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:51
+                   all        346        384      0.893      0.936      0.957      0.757
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      48/99         0G    0.02212    0.01399   0.006934          2        640: 100%|██████████| 250/250 05:26
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:56
+                   all        346        384      0.843       0.95      0.949      0.753
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      49/99         0G     0.0227    0.01382   0.006846          1        640: 100%|██████████| 250/250 05:35
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:51
+                   all        346        384      0.871      0.944      0.954      0.766
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      50/99         0G    0.02241    0.01352   0.006846          4        640: 100%|██████████| 250/250 05:17
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:52
+                   all        346        384       0.87      0.963      0.958      0.762
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      51/99         0G    0.02257    0.01398   0.006669          4        640: 100%|██████████| 250/250 05:03
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.871      0.926      0.954      0.766
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      52/99         0G    0.02239    0.01397    0.00636          1        640: 100%|██████████| 250/250 05:01
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:50
+                   all        346        384      0.903      0.921      0.961      0.762
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      53/99         0G    0.02159    0.01286     0.0071          2        640: 100%|██████████| 250/250 04:54
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:49
+                   all        346        384      0.873      0.945      0.958      0.777
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      54/99         0G    0.02193    0.01395   0.006841          4        640: 100%|██████████| 250/250 04:58
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.893      0.916      0.963      0.773
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      55/99         0G    0.02182    0.01375   0.006704          3        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.867      0.963      0.953      0.765
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      56/99         0G    0.02243    0.01421   0.007468          2        640: 100%|██████████| 250/250 04:47
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.875      0.958      0.958      0.772
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      57/99         0G    0.02232    0.01341   0.006111          1        640: 100%|██████████| 250/250 04:45
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.885      0.927       0.96      0.777
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      58/99         0G    0.02134    0.01336   0.006288          3        640: 100%|██████████| 250/250 04:44
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.859      0.966      0.956       0.77
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      59/99         0G    0.02175    0.01314    0.00657          3        640: 100%|██████████| 250/250 04:46
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.876      0.966      0.965      0.787
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      60/99         0G     0.0214    0.01357   0.006574          2        640: 100%|██████████| 250/250 04:47
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.859      0.974       0.96      0.781
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      61/99         0G     0.0216    0.01344   0.006362          1        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384       0.89      0.966      0.969      0.783
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      62/99         0G    0.02129    0.01332   0.006613          3        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384       0.88      0.953      0.968      0.792
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      63/99         0G    0.02093    0.01341   0.006232          3        640: 100%|██████████| 250/250 04:48
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.894      0.952      0.963      0.779
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      64/99         0G    0.02059    0.01292   0.005988          5        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.896      0.958      0.967      0.786
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      65/99         0G    0.02074    0.01308   0.006516          2        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.874      0.975      0.963      0.786
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      66/99         0G    0.02122    0.01352   0.006509          2        640: 100%|██████████| 250/250 04:50
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.881      0.963      0.965      0.786
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      67/99         0G    0.02014    0.01287   0.005391          2        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.895      0.938      0.966      0.789
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      68/99         0G    0.02148    0.01382   0.006813          4        640: 100%|██████████| 250/250 04:50
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.904      0.957      0.968      0.797
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      69/99         0G    0.02087    0.01329   0.006196          3        640: 100%|██████████| 250/250 04:51
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.886      0.972      0.966      0.798
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      70/99         0G    0.02054    0.01269   0.006209          2        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384       0.88      0.956      0.963      0.793
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      71/99         0G     0.0199    0.01273   0.005342          2        640: 100%|██████████| 250/250 04:48
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.896      0.969      0.968      0.799
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      72/99         0G    0.02033    0.01289   0.005464          3        640: 100%|██████████| 250/250 04:51
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.902      0.982       0.97      0.801
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      73/99         0G    0.01981    0.01304   0.005948          1        640: 100%|██████████| 250/250 04:51
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384       0.89      0.968      0.967      0.807
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      74/99         0G    0.02011    0.01324   0.005883          0        640: 100%|██████████| 250/250 04:48
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.901      0.969      0.966      0.798
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      75/99         0G    0.01973    0.01255   0.004988          4        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384        0.9      0.969      0.965      0.801
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      76/99         0G    0.02001    0.01293   0.005893          4        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384       0.87      0.969      0.963      0.807
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      77/99         0G    0.02002    0.01299   0.005259          5        640: 100%|██████████| 250/250 04:50
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.893      0.972       0.97      0.811
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      78/99         0G    0.02005      0.013   0.005835          5        640: 100%|██████████| 250/250 04:51
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.903      0.968      0.973      0.819
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      79/99         0G     0.0212    0.01317   0.005628          4        640: 100%|██████████| 250/250 04:48
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384       0.91      0.964      0.973      0.814
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      80/99         0G    0.01913     0.0125   0.005051          5        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.908      0.976      0.976      0.808
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      81/99         0G    0.01936    0.01298   0.005484          2        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.901       0.98      0.977      0.822
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      82/99         0G    0.01959    0.01272   0.005764          2        640: 100%|██████████| 250/250 04:51
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384       0.89      0.987      0.972      0.815
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      83/99         0G    0.01926    0.01269   0.005621          1        640: 100%|██████████| 250/250 04:50
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.889       0.99      0.973      0.813
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      84/99         0G    0.01933    0.01268   0.005512          1        640: 100%|██████████| 250/250 04:51
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.915      0.982      0.978      0.822
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      85/99         0G    0.01958    0.01307   0.005344          3        640: 100%|██████████| 250/250 04:48
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.913      0.969      0.975      0.819
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      86/99         0G    0.01914    0.01302   0.005125          4        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.899      0.966      0.972      0.819
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      87/99         0G    0.01955    0.01257   0.005536          3        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.918      0.969      0.978      0.827
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      88/99         0G    0.01942    0.01244    0.00541          4        640: 100%|██████████| 250/250 04:48
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.902      0.969      0.975      0.823
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      89/99         0G    0.01914    0.01224   0.005273          1        640: 100%|██████████| 250/250 04:50
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.915      0.982      0.978      0.828
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      90/99         0G    0.01926    0.01253   0.004894          1        640: 100%|██████████| 250/250 04:47
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.907      0.965      0.975      0.822
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      91/99         0G    0.01879    0.01219   0.004767          3        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384       0.91      0.965      0.979      0.827
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      92/99         0G    0.01867    0.01226   0.005099          2        640: 100%|██████████| 250/250 04:51
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.915      0.979      0.979       0.83
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      93/99         0G    0.01921    0.01278   0.004832          4        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.916      0.973      0.977      0.824
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      94/99         0G    0.01859    0.01247   0.004588          4        640: 100%|██████████| 250/250 04:48
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:48
+                   all        346        384      0.914      0.974      0.978      0.828
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      95/99         0G      0.019    0.01259    0.00516          0        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.926      0.968       0.98       0.83
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      96/99         0G    0.01868    0.01213   0.004734          3        640: 100%|██████████| 250/250 04:48
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.904       0.98      0.978      0.831
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      97/99         0G    0.01849    0.01259   0.004333          2        640: 100%|██████████| 250/250 04:47
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.916      0.973      0.978      0.833
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      98/99         0G    0.01805    0.01227   0.004612          2        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.923      0.968      0.979      0.831
+
+      Epoch    GPU_mem   box_loss   obj_loss   cls_loss  Instances       Size
+      99/99         0G    0.01861    0.01241   0.005362          1        640: 100%|██████████| 250/250 04:49
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:47
+                   all        346        384      0.911      0.968      0.977      0.831
+
+100 epochs completed in 10.091 hours.
+Optimizer stripped from yolov5/runs/train/exp11/weights/last.pt, 14.4MB
+Optimizer stripped from yolov5/runs/train/exp11/weights/best.pt, 14.4MB
+
+Validating yolov5/runs/train/exp11/weights/best.pt...
+Fusing layers... 
+Model summary: 157 layers, 7015519 parameters, 0 gradients, 15.8 GFLOPs
+                 Class     Images  Instances          P          R      mAP50   mAP50-95: 100%|██████████| 44/44 00:44
+                   all        346        384      0.916      0.973      0.978      0.833
+                   cat        346        191      0.938      0.956      0.982      0.827
+                   dog        346        193      0.894       0.99      0.975      0.839
+Results saved to yolov5/runs/train/exp11
